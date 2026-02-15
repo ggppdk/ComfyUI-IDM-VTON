@@ -4,7 +4,7 @@ torchaudio
 accelerate==0.30.0
 torchmetrics==1.4.0
 tqdm==4.66.4
-transformers==4.40.2
+transformers
 diffusers
 einops==0.8.0
 bitsandbytes
